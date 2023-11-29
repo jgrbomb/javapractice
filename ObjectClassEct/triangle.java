@@ -1,5 +1,6 @@
 package ObjectClassEct;
 
+// triangle with a base,height, and calcuated area
 public class triangle {
     private int base;
     private int height;

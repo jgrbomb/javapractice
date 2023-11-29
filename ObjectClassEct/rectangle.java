@@ -1,5 +1,6 @@
 package ObjectClassEct;
 
+// rectangle with a length,width,and calculated area
 public class rectangle {
     private int length;
     private int width;

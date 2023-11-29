@@ -1,5 +1,6 @@
 package ObjectClassEct;
 
+// parent Animal class with a type,species, and sound function
 public class Animal {
     protected String type;
     protected String species;

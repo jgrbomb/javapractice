@@ -1,5 +1,6 @@
 package ObjectClassEct;
 
+// circle with a radius and calculated area
 public class circle {
     private int radius;
     public circle(int r){
